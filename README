@@ -1,0 +1,5 @@
+Welcome to UW CSE finder! This is a quick script to try and find available CSE's (Complementary Study Electives) offered in a particular term. 
+
+Note that this script runs on an older list of CSEs, so the list of courses accepted as CSEs may have since changed. Therefore, you shouldn't be solely relying on this script when choosing a CSE.
+
+Usage: python main.py <Your UWaterloo API key here>
